@@ -51,7 +51,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: oklab(51.882% 0.12554 -0.00078);
 }
 
 /* Greeting text */
