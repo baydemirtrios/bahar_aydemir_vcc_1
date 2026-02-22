@@ -1,0 +1,11 @@
+Git commands to remember:
+   - git init
+   - git add .
+   - git commit -m "message"
+   - git push
+
+5. VS Code tips:
+   - Ctrl + L → Clear terminal
+   - Ctrl + ~ → Open terminal
+   - Live Server extension for HTML
+   - Use extensions: Prettier, ESLint
